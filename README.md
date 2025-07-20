@@ -42,7 +42,7 @@ Interactive salary dashboard built with Tableau Public.
 
 ## 📊 Dashboard Preview
 
-![Dashboard Screenshot](Dashboard 1.png) <!-- Replace this with your image name or screenshot -->
+![Dashboard Screenshot](https://github.com/priyanka7411/indian-salary-analysis/blob/main/Dashboard%201.png?raw=true)
 
 ---
 
