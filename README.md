@@ -4,7 +4,6 @@ This project explores salary trends across different job roles and cities in Ind
 
 ---
 
-
 ---
 
 ## 🛠 Tools & Technologies
@@ -43,7 +42,7 @@ Interactive salary dashboard built with Tableau Public.
 
 ## 📊 Dashboard Preview
 
-![Dashboard Screenshot](dashboard_preview.png) <!-- Replace this with your image name or screenshot -->
+![Dashboard Screenshot](Dashboard 1.png) <!-- Replace this with your image name or screenshot -->
 
 ---
 
@@ -55,23 +54,6 @@ Interactive salary dashboard built with Tableau Public.
 - The distribution of salaries is **right-skewed** (not normally distributed)
 
 ---
-
-## 🚀 How to Reproduce
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/salary-analysis.git
-   cd salary-analysis
-
-# Create virtual environment
-python -m venv venv
-
-# Activate it
-# On Windows:
-venv\Scripts\activate
-# On macOS/Linux:
-source venv/bin/activate
-
 
 ## 📬 Contact
 
